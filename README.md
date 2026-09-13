@@ -8,15 +8,12 @@
 
 ```bash
 git clone https://github.com/yamu12-02/-Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
+
+STEP 02 - Create a conda environment after opening the repository
 conda create -n medibot python=3.10 -y
 conda activate medibot
+
+STEP 03 - Install the requirements
 pip install -r requirements.txt
 
-Then:
-
-1. **Ctrl + S** → Save
-2. Terminal-la:
-
-```bash
-git add README.md
-git commit -m "updated README"
+Medical Chatbot Project
